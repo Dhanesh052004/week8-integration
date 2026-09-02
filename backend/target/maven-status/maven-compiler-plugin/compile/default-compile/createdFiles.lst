@@ -1,0 +1,3 @@
+com\taskmanager\security\JwtAuthenticationFilter.class
+com\taskmanager\config\SecurityConfig.class
+com\taskmanager\security\JwtTokenProvider.class
